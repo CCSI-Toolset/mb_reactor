@@ -1,5 +1,5 @@
 # A simple makefile for creating the Moving Bed Reactor Model distribution
-VERSION    := 2015.10.00
+VERSION    := `git describe --tags`
 PRODUCT    := Moving Bed Reactor Model
 PROD_SNAME := MBReactor
 LICENSE    := CCSI_TE_LICENSE_$(PROD_SNAME).txt
