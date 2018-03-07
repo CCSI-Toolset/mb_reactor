@@ -1,7 +1,7 @@
 # MB Reactor
 Moving Bed Reactor Model
 
-Note: This product is also part of the [Process Models Bundle] (../../../ProcessModels_bundle)
+Note: This product is also part of the [Process Models Bundle](../../../ProcessModels_bundle)
 
 ## Getting Started
 
