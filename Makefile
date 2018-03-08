@@ -6,8 +6,9 @@ LICENSE    := LICENSE.md
 PKG_DIR    := CCSI_$(PROD_SNAME)_$(VERSION)
 PACKAGE    := $(PKG_DIR).zip
 
-PAYLOAD := README.md \
-	ACM        \
+PAYLOAD := docs/*.pdf \
+           README.md \
+           ACM        \
            gPROMS     \
            $(LICENSE)
 
